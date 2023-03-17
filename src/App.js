@@ -20,7 +20,7 @@ import Contact from './components/Contact';
      <Route path='/nav' element={<Nav/>}/>
      <Route path='/about' element={<About/>}/>
      <Route path='/program' element={<Program/>}/>
-     <Route path='/' element={<Contact/>}/>
+     <Route path='/contact' element={<Contact/>}/>
 
      
      </Routes>

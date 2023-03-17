@@ -15,7 +15,7 @@ import { NavLink } from 'react-router-dom';
                 <NavLink style={{textDecoration:"none"}} to={'about'}>About</NavLink>
                 <NavLink style={{textDecoration:"none"}} to={'program'}>program</NavLink>
                 <NavLink  style={{textDecoration:"none"}}to={'contact'}>contact</NavLink>
-                <NavLink to={'/'}><Button>Help</Button></NavLink>
+                <NavLink to={'/'}><Button className="bg-black text-white">Help</Button></NavLink>
               
 
             </div>
